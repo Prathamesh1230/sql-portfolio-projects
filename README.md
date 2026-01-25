@@ -1,1 +1,1 @@
-# SQL-beginner
+# SQL-beginner projects
