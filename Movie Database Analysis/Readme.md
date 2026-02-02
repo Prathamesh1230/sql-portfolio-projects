@@ -1,1 +1,3 @@
+# Movie Database Analysis Project
 
+This project performs comprehensive SQL analysis on the IMDb Top 1000 movies dataset to explore patterns in movie ratings, genres, box office performance, and industry trends. Through 12 SQL queries ranging from basic to advanced, the analysis identifies top-rated films, examines genre popularity over decades, evaluates director and actor performance, compares IMDb ratings with Metacritic scores, and investigates the relationship between movie runtime and commercial success. The project provides valuable insights into what makes movies critically acclaimed and commercially successful.
