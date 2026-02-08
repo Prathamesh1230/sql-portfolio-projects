@@ -1,4 +1,4 @@
-Video Game Sales Analysis (SQL)
+## Video Game Sales Analysis (SQL)
 
 This project analyzes global video game sales data using MySQL.
 The dataset was imported from CSV files and explored using core SQL concepts such as GROUP BY, JOIN, subqueries, and aggregate functions.
