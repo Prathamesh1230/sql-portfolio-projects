@@ -1,3 +1,3 @@
-# Airline/Flight Booking Analysis
+## Airline/Flight Booking Analysis
 
 This project analyzes airline and flight customer data to uncover key insights into booking trends, service experience, customer satisfaction, and delay patterns. Using SQL, comprehensive queries address customer demographics, booking preferences, service ratings, flight performance, and the main factors influencing passenger satisfaction. The dataset includes attributes such as traveler type, class, flight distances, various onboard/service ratings, delay times, and satisfaction levels. The goal is to empower data-driven decision making for airlines by understanding the drivers of high satisfaction, operational challenges, and market opportunities in the airline industry.
